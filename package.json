@@ -1,0 +1,27 @@
+{
+  "name": "cutsom-vue-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Havolt/cutsom-vue-ssr.git"
+  },
+  "keywords": [],
+  "author": "markf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Havolt/cutsom-vue-ssr/issues"
+  },
+  "homepage": "https://github.com/Havolt/cutsom-vue-ssr#readme",
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
