@@ -1,3 +1,6 @@
 export default function chunk() {
-  console.log("I'm chonk");
+  const newDiv = document.createElement("div");
+  newDiv.innerText = "I'm chonk";
+  newDiv.classList.add("text-violet");
+  document.querySelector("body").appendChild(newDiv);
 }
